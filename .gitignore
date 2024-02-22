@@ -1,2 +1,4 @@
 /.DS_Store
 /healthyMetrics_design_release.code-workspace
+release/screenshots/.
+*DS_Store*
